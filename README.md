@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/vaultcipher/Vault/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 ### Markdown
-
+- [x] Correct Reverse Proxy SSL Redirections
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
